@@ -1,5 +1,3 @@
-Serenity
-========
 <script class="mumble-widget"
     src="//dqc3ygqu0f1ud.cloudfront.net/dist/mumble-widget/mumble-widget.cdn.min.js"
     type="text/javascript"
